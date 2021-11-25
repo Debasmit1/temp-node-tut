@@ -1,3 +1,3 @@
-# temp-node-tut
-#Learning Node 
-#So created few node modules
+#First Node Modules
+###npm install 
+to install all the required dependencies
